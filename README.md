@@ -59,7 +59,7 @@ This project implements lip reading using a LipNet-inspired deep learning model.
 ## References
 
 - [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
-- [Original LipNet Implementation](https://github.com/astorfi/lipnet)
+- [Original LipNet Implementation](https://github.com/rizkiarm/LipNet)
 - GRID dataset for training and testing
 
 ## License
